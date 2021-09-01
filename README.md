@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codegeeko007
 - 👀 I’m interested in android development.
-- 🌱 I’m currently learning android development.
+- 🌱 I’m currently learning android development, Artificial intelligence and Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
